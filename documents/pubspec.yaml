@@ -25,6 +25,8 @@ dependencies:
     sdk: flutter
   percent_indicator: "^2.1.1"
 
+  #firebase_core: ^1.0.1
+
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.0
@@ -34,12 +36,11 @@ dependencies:
   google_fonts: ^1.1.2
   fluttertoast: ^7.1.8
   flip_card: ^0.4.4
-  firebase_storage: ^7.0.0
-  firebase_database: ^6.0.0
-  firebase_core: ^0.7.0
-  http: ^0.12.2
+  #firebase_storage: ^7.0.0
+  #firebase_database: ^2.0.3
+  pdf: ^2.0.0
   flutter_full_pdf_viewer: ^1.0.6
-  mysql1: ^0.17.1
+  path_provider: ^1.5.0
 
 dev_dependencies:
   flutter_test:

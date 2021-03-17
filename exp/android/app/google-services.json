@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "208026983898",
+    "project_id": "conn-bb429",
+    "storage_bucket": "conn-bb429.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208026983898:android:d2438c296f02fcdcd0f4e3",
+        "android_client_info": {
+          "package_name": "com.example.exp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208026983898-3mbhs699ekskft1urs99k0q3h7i67fl9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIBcR9doLmhThEAZHfg1FsNDZLnrAe4CQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208026983898-3mbhs699ekskft1urs99k0q3h7i67fl9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

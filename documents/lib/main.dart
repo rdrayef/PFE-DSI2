@@ -3,6 +3,7 @@ import 'package:flutter/rendering.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:percent_indicator/percent_indicator.dart';
 import 'package:services_app/categories.dart';
+//import 'package:firebase_storage/firebase_storage.dart';
 
 void main() {
   runApp(MyApp());
